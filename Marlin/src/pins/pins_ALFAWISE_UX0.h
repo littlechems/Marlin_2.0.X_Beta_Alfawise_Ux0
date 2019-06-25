@@ -68,7 +68,7 @@
 //
 // Temperature Sensors
 //
-#define TEMP_0_PIN        PA0 // pin 23 (Nozzle 100K/3950 thermistor)
+#define TEMP_0_PIN        PC0 // pin 15 (ex23(A0)) (Nozzle 100K/3950 thermistor)
 #define TEMP_BED_PIN      PA1 // pin 24 (Hot Bed 100K/3950 thermistor)
 
 //
